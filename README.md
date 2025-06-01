@@ -1,4 +1,4 @@
 # First-One
 This is my first project
 
-Author - Ash Roy
+Author - Ash Roy!
